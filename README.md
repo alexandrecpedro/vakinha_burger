@@ -1,8 +1,8 @@
 
 <h2>Sobre</h2>
 
-  Este foi um aplicativo construído na semana do Dart Week, um evento proporcionado pela <a href="http://academiadoflutter.com.br/">Academia do Flutter</a>. O Vakinha Burguer é um aplicativo de delivery de lanches, com pagamentos com PIX.
-
+  Este foi um aplicativo construído na Dart Week 5 edição, um evento proporcionado pela <a href="http://academiadoflutter.com.br/">Academia do Flutter</a>. O Vakinha Burguer é um aplicativo de delivery de lanches, com pagamentos por PIX.
+  
 ---   
 
 <h2>Preview</h2>
